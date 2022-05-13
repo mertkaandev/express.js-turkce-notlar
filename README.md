@@ -308,4 +308,3 @@ Controllers: Controller fonksiyonları kısaca belli bir route'a yapılan istekt
 -Güncellenecek-
 
 
-written by me - tarafımca yazılmıştır / not completed yet - henüz tamamlanmamıştır
